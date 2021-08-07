@@ -1,5 +1,6 @@
 package main
 
+//新版本
 import (
 	//"github.com/gin-gonic/gin"
 	"newBubble/dao"
